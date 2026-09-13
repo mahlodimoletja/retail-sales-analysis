@@ -122,6 +122,27 @@ The business could use this seasonal pattern to prepare inventory and marketing 
 
 The average order value was 530.40, providing a useful benchmark for measuring customer spending and evaluating future strategies.
 
+## 👑 Top Customers
+
+The highest-value customer was Customer 18102, generating 434,390.31 in sales.
+
+The top three customers generated a combined 983,490.50 in sales, highlighting the importance of retaining high-value customers.
+
+### Top 10 Customers
+
+| Rank | Customer ID | Total Sales |
+|---:|---:|---:|
+| 1 | 18102 | 434,390.31 |
+| 2 | 14646 | 291,990.29 |
+| 3 | 14156 | 257,109.90 |
+| 4 | 13694 | 173,126.24 |
+| 5 | 14911 | 160,857.62 |
+| 6 | 15061 | 100,765.63 |
+| 7 | 17511 | 97,357.07 |
+| 8 | 16684 | 87,256.61 |
+| 9 | 15311 | 73,108.22 |
+| 10 | 17850 | 66,689.05 |
+
 ---
 
 ## 📌 Business Recommendations
