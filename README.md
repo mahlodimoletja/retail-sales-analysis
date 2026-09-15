@@ -11,7 +11,7 @@ The analysis focuses on understanding business performance and using SQL to gene
 ---
 ## 📊 Dashboard
 
-![Online Retail Sales Dashboard](Retail Sales Analysis dashboard.png)
+![Online Retail Sales Dashboard](online-retail-dashboard.png)
 
 ## 🎯 Business Questions
 
