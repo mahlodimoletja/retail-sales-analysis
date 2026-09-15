@@ -9,6 +9,9 @@ The analysis focuses on understanding business performance and using SQL to gene
 > **Data cleaning rule:** All sales calculations exclude transactions where the description is `Manual` and transactions with non-positive quantities.
 
 ---
+## 📊 Dashboard
+
+![Online Retail Sales Dashboard](Retail Sales Analysis dashboard.png)
 
 ## 🎯 Business Questions
 
